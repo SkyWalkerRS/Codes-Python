@@ -10,12 +10,11 @@ import sys
 
 from tools.utilidades import Tam
 
-###Teste2###
+
 
 
 p = Tam()
 
-#	b = utilidades._str_()
 
 conn = ConexaoFabrica().getConexao()
 vooDao = VooDao(conn)
