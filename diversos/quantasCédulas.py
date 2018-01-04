@@ -1,6 +1,6 @@
-N = int(input("Quanto vc quer depositar?"))
+n = int(input("Quanto vc quer depositar?"))
 
-v1 = N
+v1 = n
 v2 = 0
 v5 = 0
 v10 = 0
