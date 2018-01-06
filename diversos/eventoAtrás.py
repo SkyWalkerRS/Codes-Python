@@ -1,4 +1,4 @@
-ano_atual = 2017
+ano_atual = 2018
 evento = int(input("A quanto tempo atrás ocorreu o evento?"))
 def anos_atras(ano_atual,evento):
   if evento <=ano_atual: 
