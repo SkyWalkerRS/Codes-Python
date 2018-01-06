@@ -35,4 +35,4 @@ while 2 <= v1 < 5:
 print("%d\n%d nota(s) de R$ 100,00\n%d nota(s) de R$ 50,00\n"
       "%d nota(s) de R$ 20,00\n%d nota(s) de R$ 10,00\n"
       "%d nota(s) de R$ 5,00\n%d nota(s) de R$ 2,00\n"
-      "%d nota(s) de R$ 1,00\n" %(N, v100, v50, v20, v10, v5, v2, v1))
+      "%d nota(s) de R$ 1,00\n" %(n, v100, v50, v20, v10, v5, v2, v1))
