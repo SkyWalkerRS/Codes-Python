@@ -9,7 +9,10 @@ Mixins é uma forma controlada de adicionar funcionalidades as classes.
 Propriedades:
 1) não deve ser extendida
 2) não deve ser instanciada
+<<<<<<< HEAD
 ####
+=======
+>>>>>>> 58eebfe2eaa34dba6094792e6ed8f1d6a0fe585a
 
 Em Python, o conceito de mixins é implementado utilizando herança múltipla.
 '''

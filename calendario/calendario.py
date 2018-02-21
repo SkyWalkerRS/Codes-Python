@@ -1,6 +1,6 @@
 ﻿## Programa que simula um calendario
 # http://pt.wikipedia.org/wiki/Calend%C3%A1rio_gregoriano
-#
+
 # Dada uma data (dia, mes, ano) por parametro e retorna o dia da semana
 
 # Implementação de referencia: http://www.calculatorcat.com/free_calculators/day_of_week.phtml
