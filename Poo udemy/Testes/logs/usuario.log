@@ -1,0 +1,15 @@
+23/02/2018 11:02:05 AM - __main__ - INFO - Alterada a senha!!
+23/02/2018 11:02:05 AM - __main__ - WARNING - Tentativa de acesso de inválida
+23/02/2018 11:02:05 AM - __main__ - ERROR - Usuario id não existe: usuario_id=0
+23/02/2018 11:02:05 AM - __main__ - ERROR - Error:
+Traceback (most recent call last):
+  File "/home/kleber/Documents/Codes/python/Poo udemy/Testes/logs/usuario.py", line 40, in abrir_arquivo_usuario
+    open('/path/to/does/not/exist', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+23/02/2018 11:02:05 AM - __main__ - DEBUG - 0 iterator, item=1
+23/02/2018 11:02:05 AM - __main__ - DEBUG - 1 iterator, item=2
+23/02/2018 11:02:05 AM - __main__ - DEBUG - 2 iterator, item=3
+23/02/2018 11:02:05 AM - __main__ - DEBUG - 3 iterator, item=4
+23/02/2018 11:02:05 AM - aula - INFO - Mensagem informativa
+23/02/2018 11:02:05 AM - aula - DEBUG - Mensagem de debug
+23/02/2018 11:02:05 AM - aula - ERROR - Um erro aconteceu.
